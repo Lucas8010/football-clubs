@@ -15,3 +15,12 @@ Man Utd
 Man City
 Tottenham
 Fiorentina
+Inter Milan
+Lazio
+Monaco
+PSG
+QPR
+Athletico Madrid
+Real Madrid
+Sevilla
+Valencia
